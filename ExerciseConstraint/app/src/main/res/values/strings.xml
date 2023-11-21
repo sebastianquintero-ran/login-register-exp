@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExerciseConstraint</string>
+    <string name="title_app">My Application</string>
+    <string name="input_user">Nombre del usuario</string>
+    <string name="input_password">Contraseña</string>
+    <string name="txt_btn_login">Iniciar sesión</string>
+    <string name="register_login">Registrate</string>
+    <string name="fgt_password">¿Olvidaste la constraseña?</string>
+    <string name="title_register">Registrate</string>
+    <string name="input_email">Correo electrónico</string>
+    <string name="already_register">¿Ya tienes una cuenta? Inicia Sesión</string>
+
+</resources>
